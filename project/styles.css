@@ -1,0 +1,40 @@
+img{
+    border-radius: 30px;
+    max-width: 10%;
+}
+nav{
+  flex-grow: 1;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 1;
+}
+#top-section{
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+
+}
+#top-section-footer{
+    font-size: small;
+    font-style: italic;
+    color: rgb(250, 9, 9);
+}
+.main-content{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    text-align: center;
+
+
+}
+.main-content ul{
+    list-style-type: none;
+}
+#Reviews{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+}
